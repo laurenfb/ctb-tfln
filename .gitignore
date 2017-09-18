@@ -2,4 +2,8 @@
 
 .DS_Store
 
-*.pycg
+*.pyc
+
+venv
+
+.env
